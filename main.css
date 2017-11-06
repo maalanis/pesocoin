@@ -1,0 +1,19 @@
+body{
+	margin: 10px;
+	background: #3072AE;
+}
+.mainBlock{
+	float: left;
+	margin-top: 5%;
+	margin-left: 25%;
+	width: 50%;
+	background-color: white;
+	height: 400px;
+	width: 50%;
+	text-align: center;
+	padding-top: 100px;
+	display: none;
+}
+.btn{
+	margin-top: 10%;
+}
